@@ -4,3 +4,4 @@ groq
 google-generativeai
 python-dotenv
 asyncio
+upstash-redis
